@@ -1,0 +1,9 @@
+{
+    "material-icon-theme.saturation": 1,
+    "workbench.colorTheme": "Default Dark+",
+    "workbench.iconTheme": "eq-material-theme-icons-darker",
+    "workbench.preferredDarkColorTheme": "Material Theme Darker High Contrast",
+    "workbench.preferredHighContrastLightColorTheme": "Visual Studio 2017 Dark - C++",
+    "workbench.preferredLightColorTheme": "Visual Studio Light - C++",
+    "materialTheme.accent": "Purple"
+}
